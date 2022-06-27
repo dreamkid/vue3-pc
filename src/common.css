@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.overflow {
+    border-radius: 3rem;
+    overflow: scroll;
+}
+
+.icon-size {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.font-16 {
+    font-size: 1.6rem;
+}
+
+.font-20 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.font-15 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.font-10 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.warp {
+    width: 32.9rem;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.vertical-middle {
+    /* vertical-align: middle */
+    /* align-items: center; */
+    /* margin: auto; */
+}
+
+.mr-t-37 {
+    margin-top: 3.7rem;
+}
+
+.mr-t-18 {
+    margin-top: 1.8rem;
+}
+
+.mr-t-10 {
+    margin-top: 1.0rem;
+}
